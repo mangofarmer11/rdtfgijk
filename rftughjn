@@ -1,0 +1,39 @@
+<html>
+    <title>Hydrophonic Agriculture</title>
+    <body style="background-color:hwb(60 71% 16%);">
+        <h1 style="font-size:50px; font-family:'verdana'; color:#000000;text-align:center;"><i>HYDROPHONIC AGRICULTURE</i></h1>
+        
+        <p style="color:rgb(0, 0, 0);font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size:35px; text-align: center;background-color:rgb(0, 255, 106);">What is Hydrophonics?</p>
+        
+        <p style="color: #000000;font-family: Bahnschrift; font-size: 30px;">Hydrophonics is a way to skip the soil, sub in a different material to support the roots of the plant, and grow crops directly in nutrient-rich water. There are multiple approaches to designing hydroponic systems, but the core elements are essentially the same.</p>
+        
+        <img src="https://www.verticalroots.com/wp-content/uploads/2021/12/Green_Butter_Farm.jpg" alt="Hydrophonic Agriculture" style="width:430px;height:300px;"> <img src="https://puregreensaz.com/wp-content/uploads/2020/01/container-farm1-1024x768.jpeg" alt="Hydrophonic Agriculture2" style="width:430px;height:300px;"> <img src="https://images.squarespace-cdn.com/content/v1/5b51df5812b13fce46a6868b/1605501946877-SCPH8PKNZFBYQJ4C12PL/Photo+1.jpg" alt="Hydrophonic Agriculture3" style="width:430px;height:300px;">
+        
+        <h2 style="color:rgb(0, 0, 0);font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size:35px; text-align: center;background-color:rgb(72, 255, 0);">Process Involved</h2>
+        
+        <p style="color: #000000;font-family: Bahnschrift; font-size: 28px;">The hydrophonic growing method is relatively simple and includes placing containers on the ground or on tables through which water with essential nutrients flows continuously. The water is enriched with oxygen continuously to facilitate proper functioning of the roots system.</p>
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/ygGUe-q3cww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>  <p><a href="https://www.verticalroots.com/the-what-and-why-of-hydroponic-farming/#:~:text=So%20What%20is%20Hydroponics%3F,elements%20are%20essentially%20the%20same." target="_blank">Visit the website of hydrophonic agriculture by clicking here!</a></p>
+        
+        <h3 style="color:rgb(17, 0, 0);font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size:35px; text-align: center;background-color:rgb(60, 255, 0);">Conclusion</h3>
+        
+        <p style="color: #000000;font-family: Bahnschrift; font-size: 28px;">In recent years, hydrophonics is seen as a promising strategy for growing different crops.It is possible to grow short duration crops like vegetables around the year in very limited spaces with low labour. So, hydrophonics cam be a great contribution in areas with lmitations of soil and water for the poor and landless people.</p>
+
+        <svg width="400" height="250">
+            <rect width="400" height="250" style="fill:rgb(0,0,255);stroke-width:10;stroke:rgb(0,0,0)" />
+            <text fill="#ffffff" font-size="45" font-family="Verdana" x="80" y="70">Advantages</text>
+            <text fill="#ffffff" font-size="25" font-family="Verdana" x="10" y="130">1) No soil required</text>
+            <text fill="#ffffff" font-size="25" font-family="Verdana" x="10" y="160">2) Optimal use of location</text>
+            <text fill="#ffffff" font-size="25" font-family="Verdana" x="10" y="190">3) Faster growth rate</text>
+            <text fill="#ffffff" font-size="25" font-family="Verdana" x="10" y="220">4) optimal use of nutrients</text>
+          </svg>
+    
+        <h4 style="color:rgb(0, 0, 0);font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-size:35px;background-color: rgb(0, 255, 21);">Was this website helpful?</h4>
+        <form action="/action_page.php">
+        <label for="fname">Yes:</label><br>
+        <input type="text" id="fname" name="fname" value="Yes"><br>
+        <label for="lname">No:</label><br>
+        <input type="text" id="lname" name="lname" value="No"><br><br>
+        <input type="submit" value="Submit">
+        </form> 
+    </body>
+</html>
